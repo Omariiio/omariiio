@@ -35,7 +35,7 @@ I create Arabic content on:
 - 💸 Crypto airdrops and how to profit from Web3
 - 📱 Reviews of trending bots, platforms, and tools
 
-📺 [Subscribe here → YouTube.com/@OmaarEll](https://www.youtube.com/@OmaarEll)
+📺 [Subscribe here → YouTube.com/@cryp2elixir]([https://www.youtube.com/@OmaarEll](https://www.youtube.com/@Cryp2elixir))
 
 ---
 
@@ -48,9 +48,9 @@ Coming soon... 🚧
 
 ## 🌐 Connect With Me
 
-- 🐦 Twitter: [@OmaarEll](https://twitter.com/_omariiio)
-- 💼 LinkedIn: [linkedin.com/in/omar-ell](https://www.linkedin.com/in/omariiio)
-- 💻 GitHub: [github.com/OmaarEll](https://github.com/omariiio)
+- 🐦 Twitter: [@_omariiio](https://twitter.com/_omariiio)
+- 💼 LinkedIn: [linkedin.com/in/omariiio](https://www.linkedin.com/in/omariiio)
+- 💻 GitHub: [github.com/Omariiio](https://github.com/omariiio)
 
 ---
 
