@@ -1,6 +1,6 @@
 <!-- README for Omar Ell - Python Developer, YouTuber, and Crypto Investor -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://github.com/OmaarEll)
+[![Header](https://github.com/Omariiio/omariiio/blob/main/assets/Design%20sans%20titre.png?raw=true)](https://github.com/OmaarEll)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
