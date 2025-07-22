@@ -35,7 +35,7 @@ I create Arabic content on:
 - 💸 Crypto airdrops and how to profit from Web3
 - 📱 Reviews of trending bots, platforms, and tools
 
-📺 [Subscribe here → YouTube.com/@cryp2elixir]([https://www.youtube.com/@OmaarEll](https://www.youtube.com/@Cryp2elixir))
+📺 [Subscribe here → YouTube.com/@cryp2elixir](https://www.youtube.com/@Cryp2elixir)
 
 ---
 
