@@ -39,17 +39,6 @@ I create Arabic content on:
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/OmaarEll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaarEll&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/OmaarEll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmaarEll&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Omar's GitHub Stats" />
-</a>
-
----
-
 ## 📌 Featured Projects
 
 <!-- Add links to your best repos here -->
@@ -59,9 +48,9 @@ Coming soon... 🚧
 
 ## 🌐 Connect With Me
 
-- 🐦 Twitter: [@OmaarEll](https://twitter.com/OmaarEll)
-- 💼 LinkedIn: [linkedin.com/in/omar-ell](https://www.linkedin.com/in/omar-ell/)
-- 💻 GitHub: [github.com/OmaarEll](https://github.com/OmaarEll)
+- 🐦 Twitter: [@OmaarEll](https://twitter.com/_omariiio)
+- 💼 LinkedIn: [linkedin.com/in/omar-ell](https://www.linkedin.com/in/omariiio)
+- 💻 GitHub: [github.com/OmaarEll](https://github.com/omariiio)
 
 ---
 
